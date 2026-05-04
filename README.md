@@ -22,9 +22,10 @@ Multi-objective Optimization Problems and MORL
 
 ## 🏙️ Projects
 
-### [GeoJusticia](https://github.com/PabloBenitezR)
+### [GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)
 Urban territorial intelligence platform to surface socio-economic inequalities 
-invisible to policymakers. **1st place — Claude Impact Lab CDMX, April 2026.**
+invisible to policymakers. **1st place — Claude Impact Lab CDMX, April 2026.**  
+*(Collaborator)*
 
 ### [SUMO — Mexico City Emissions](https://github.com/PabloBenitezR/SUMO)
 End-to-end simulation pipelines modeling traffic congestion and vehicular emissions 
