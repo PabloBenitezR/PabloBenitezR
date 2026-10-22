@@ -50,9 +50,12 @@ Published in *Citizens in Motion: Traffic and Emissions* (PUEC-UNAM, ISBN: 978-6
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-0076A8?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ML%2FRL-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-Data%20Engineering-FDD835?style=flat)
 ![SUMO](https://img.shields.io/badge/SUMO-Traffic%20Simulation-4CAF50?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Academic%20Writing-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
 
