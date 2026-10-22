@@ -2,54 +2,64 @@
 
 > *Mathematics is the language. Code is the tool. Cities are the problem.*
 
-M.Sc. Candidate in Computer Science at UNAM, working at the intersection of 
-high-dimensional optimization, reinforcement learning, and urban systems modeling.
-My current research reduces the computational complexity of the Pareto Tracer 
-algorithm from O(n³) to O(n) — making multi-objective optimization tractable 
-for the kind of real-world problems that actually matter.
+M.Sc. Computer Science candidate at UNAM working at the intersection of
+high-dimensional optimization, multi-objective reinforcement learning, and data engineering.
+Research stays in Spain (UMA, 2026) and presentations at international conferences
+(MCDM 2026 · NEO 2025). Open to relocation.
 
 ---
 
-## 🔬 Research
+## Research
 
-**Thesis:** The Pareto Tracer for the Numerical Treatment of High-dimensional 
-Multi-objective Optimization Problems and MORL  
-**Advisors:** [Dr. Carlos I. Hernández Castellanos](https://scholar.google.com/citations?user=nMMBg2gAAAAJ&hl=en) · [Dr. Oliver Schütze](https://scholar.google.com/citations?user=Yscxv1kAAAAJ&hl=en) (NEO Lab)  
-**Program:** [PCIC — UNAM](https://www.pcic.unam.mx/)  
-**ORCID:** [0009-0006-3881-3017](https://orcid.org/0009-0006-3881-3017)
+**Thesis:** *The Pareto Tracer for the Numerical Treatment of High-Dimensional
+Multi-Objective Optimization Problems*  
+**Advisors:** [Dr. Carlos I. Hernández Castellanos](https://scholar.google.com/citations?user=nMMBg2gAAAAJ&hl=en) (IIMAS-UNAM) · [Dr. Oliver Schütze](https://scholar.google.com/citations?user=Yscxv1kAAAAJ&hl=en) (CINVESTAV / NEO Lab)  
+**Program:** [PCIC — UNAM](https://www.pcic.unam.mx/) &nbsp;·&nbsp; 
+
+### [Pareto-Tracer-for-high-dimensional-multi-objective-problems
+](https://github.com/PabloBenitezR/Pareto-Tracer-for-high-dimensional-multi-objective-problems)
+Python implementation of the Pareto Tracer (PT) continuation methods for multi-objective optimization, aimed at high-dimensional multiobjective problems, we baptise as PT-HD.
 
 ---
 
-## 🏙️ Projects
+## Projects
 
 ### [GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)
-Urban territorial intelligence platform to surface socio-economic inequalities 
-invisible to policymakers. **1st place — Claude Impact Lab CDMX, April 2026.**  
-*(Collaborator)*
+Urban intelligence platform surfacing socio-spatial inequalities invisible to policymakers.
+Integrates 6 open CDMX datasets (crime, transit GTFS, WiFi, lighting, civic complaints)
+into a Bronze→Silver→Gold geospatial pipeline (DuckDB · GeoPandas · GeoParquet).
+Outputs a composite **Spatial Injustice Index** served through two interactive HTML portals.  
+** 1st Place — Claude Impact Lab CDMX, April 2026** · *Collaborator*
 
 ### [SUMO — Mexico City Emissions](https://github.com/PabloBenitezR/SUMO)
-End-to-end simulation pipelines modeling traffic congestion and vehicular emissions 
-across one of the largest urban systems in the world. Key finding: emissions nearly 
-doubled (>90%) during peak hours. Published in co-authored book 
-*Citizens in Motion: Traffic and Emissions* (ISBN: 978-607-587-866-9).
+End-to-end simulation pipeline modeling traffic congestion and vehicular emissions
+across Mexico City's road network. Key finding: emissions rose **>90%** during peak hours.  
+Published in *Citizens in Motion: Traffic and Emissions* (PUEC-UNAM, ISBN: 978-607-587-866-9).
 
-### [Multi-Objective Reinforcement Learning](https://github.com/PabloBenitezR/Aprendizaje-por-refuerzo)
-Exploration of MORL frameworks and their connection to Pareto-optimal policy spaces.
+## Publications & Talks
+
+- **MCDM 2026** — *Pareto Tracer for High-Dimensional Multi-Objective Optimization*, University of Wuppertal, Germany (June 2026)
+- **NEO 2025** — *The Pareto Tracer for the Numerical Treatment of High-Dimensional MOPs*, Tijuana (Sept 2025)
+- **Book chapter** — *Citizens in Motion: Traffic and Emissions*, PUEC-UNAM (ISBN: 978-607-587-866-9, 2025)
+- **Research stay** — Universidad de Málaga, Decision-Making Group (May–Jul 2026)
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-0076A8?style=flat)
-![SUMO](https://img.shields.io/badge/SUMO-Traffic%20Simulation-brightgreen?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML%2FRL-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Data%20Engineering-FDD835?style=flat)
+![SUMO](https://img.shields.io/badge/SUMO-Traffic%20Simulation-4CAF50?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-Document%20Prep-008080?style=flat&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-Academic%20Writing-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📬 Let's connect
+##  Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PabloBenitezR-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-uriel-ben%C3%ADtez-ram%C3%ADrez-7b378220a/)
 [![Email](https://img.shields.io/badge/Email-pablo.ben.037@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pablo.ben.037@gmail.com)
+
