@@ -27,7 +27,7 @@ Python implementation of the Pareto Tracer (PT) continuation methods for multi-o
 ### [GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)
 Urban intelligence platform surfacing socio-spatial inequalities invisible to policymakers.
 Integrates 6 open CDMX datasets (crime, transit GTFS, WiFi, lighting, civic complaints)
-into a Bronze→Silver→Gold geospatial pipeline (DuckDB · GeoPandas · GeoParquet).
+into a Bronze→Silver→Gold geospatial pipeline (GeoPandas).
 Outputs a composite **Spatial Injustice Index** served through two interactive HTML portals.  
 ** 1st Place — Claude Impact Lab CDMX, April 2026** · *Collaborator*
 
