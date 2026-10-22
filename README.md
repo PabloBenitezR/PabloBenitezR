@@ -16,8 +16,8 @@ Multi-Objective Optimization Problems*
 **Advisors:** [Dr. Carlos I. Hernández Castellanos](https://scholar.google.com/citations?user=nMMBg2gAAAAJ&hl=en) (IIMAS-UNAM) · [Dr. Oliver Schütze](https://scholar.google.com/citations?user=Yscxv1kAAAAJ&hl=en) (CINVESTAV / NEO Lab)  
 **Program:** [PCIC — UNAM](https://www.pcic.unam.mx/) &nbsp;·&nbsp; 
 
-### [Pareto-Tracer-for-high-dimensional-multi-objective-problems
-](https://github.com/PabloBenitezR/Pareto-Tracer-for-high-dimensional-multi-objective-problems)
+### Python package (PT-HD): Pareto-Tracer-for-high-dimensional-multi-objective-problems
+(https://github.com/PabloBenitezR/Pareto-Tracer-for-high-dimensional-multi-objective-problems)
 Python implementation of the Pareto Tracer (PT) continuation methods for multi-objective optimization, aimed at high-dimensional multiobjective problems, we baptise as PT-HD.
 
 ---
